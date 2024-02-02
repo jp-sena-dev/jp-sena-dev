@@ -17,7 +17,7 @@
 
 ## Languages and Tools
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedr0sena&layout=compact&langs_count=7&theme=dark"/>
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-sena-dev&layout=compact&langs_count=7&theme=dark"/>
 <div align="right">
   <img alt="joao-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
