@@ -1,4 +1,4 @@
-# Hi 👋, I'm João Pedro Sena 
+# Olá 👋, eu sou João Pedro Sena 
 <p align="left" style="background:yellow">
   <a href="https://www.linkedin.com/in/jp-sena-dev/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-jpsenadev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -8,9 +8,9 @@
   </a>
 </p>
 
-- 🔥 Junior frontend developer
-- 💬 Ask me about **JavaScript, HTML, CSS**
-- 👨‍💻 More at [jp-sena.dev](https://www.jp-sena.dev/)
+- 🔥 Desenvolvedor Front-end Júnior
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS**
+- 👨‍💻 Mais em [jp-sena.dev](https://www.jp-sena.dev/)
 
 <!---  <a href="https://github.com/joaopedr0sena"> --->
 <!---  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=joaopedr0sena&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> --->
