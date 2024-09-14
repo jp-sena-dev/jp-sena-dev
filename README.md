@@ -8,8 +8,8 @@
   </a>
 </p>
 
-- 🔥 Desenvolvedor Front-end Júnior
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS**
+- 🔥 Desenvolvedor Front-fullstack
+- 💬 Pergunte-me sobre **JavaScript, Typescript, React.js, Nest.js**
 - 👨‍💻 Mais em [jp-sena.dev](https://www.jp-sena.dev/)
 
 <!---  <a href="https://github.com/joaopedr0sena"> --->
